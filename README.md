@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Ricardo+Amaro+Pedreira+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Mobile+%7C+Web+%7C+Backend" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=129490&center=true&vCenter=true&width=700&lines=%20Ol%C3%A1%2C+eu+sou+Ricardo+Amaro+Pedreira+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Mobile+%7C+Web+%7C+Backend" alt="Typing SVG" />
 
 </div>
 
@@ -21,9 +21,9 @@ Sou desenvolvedor **Full Stack**, com foco em aplicações **mobile** (React Nat
 
 **Mobile**
 
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=BB86FC" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=BB86FC" />
-<img src="https://img.shields.io/badge/NativeWind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=BB86FC" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=129490" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=129490" />
+<img src="https://img.shields.io/badge/NativeWind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=129490" />
 
 **Frontend**
 
@@ -43,7 +43,7 @@ Sou desenvolvedor **Full Stack**, com foco em aplicações **mobile** (React Nat
 <img src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=for-the-badge&logo=openai&logoColor=74AA9C" />
 <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
 <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=BB86FC" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=129490" />
 
 **Data & Analytics**
 
@@ -56,7 +56,7 @@ Sou desenvolvedor **Full Stack**, com foco em aplicações **mobile** (React Nat
 **Ferramentas & Estado**
 
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/Zustand-0D1117?style=for-the-badge&logo=react&logoColor=BB86FC" />
+<img src="https://img.shields.io/badge/Zustand-0D1117?style=for-the-badge&logo=react&logoColor=129490" />
 <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 
 <br>
@@ -65,10 +65,10 @@ Sou desenvolvedor **Full Stack**, com foco em aplicações **mobile** (React Nat
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rarpen&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarpen&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rarpen&show_icons=true&hide_border=true&bg_color=065143&title_color=129490&text_color=FFFBFC&icon_color=FFFBFC" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarpen&layout=compact&hide_border=true&bg_color=065143&title_color=129490&text_color=FFFBFC" />
 
-<img src="https://streak-stats.demolab.com/?user=rarpen&theme=radical&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=rarpen&hide_border=true&background=065143&border=065143&stroke=129490&ring=6A0136&fire=129490&currStreakNum=FFFBFC&currStreakLabel=129490&sideNums=FFFBFC&sideLabels=FFFBFC&dates=FFFBFC" />
 
 </div>
 
@@ -77,7 +77,7 @@ Sou desenvolvedor **Full Stack**, com foco em aplicações **mobile** (React Nat
 ## 🏆 Troféus
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rarpen&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=rarpen&theme=darkhub&no-frame=true&row=1&column=7" />
 </div>
 
 <br>
@@ -112,6 +112,6 @@ Sou desenvolvedor **Full Stack**, com foco em aplicações **mobile** (React Nat
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rarpen&color=bb86fc&style=for-the-badge&label=Visitas)
+![Visitor Count](https://komarev.com/ghpvc/?username=rarpen&color=129490&style=for-the-badge&label=Visitas)
 
 </div>
