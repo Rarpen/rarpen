@@ -68,7 +68,7 @@ Sou desenvolvedor **Full Stack**, com foco em aplicações **mobile** (React Nat
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rarpen&show_icons=true&hide_border=true&bg_color=065143&title_color=129490&text_color=FFFBFC&icon_color=FFFBFC" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarpen&layout=compact&hide_border=true&bg_color=065143&title_color=129490&text_color=FFFBFC" />
 
-<img src="https://streak-stats.demolab.com/?user=rarpen&hide_border=true&background=065143&border=065143&stroke=129490&ring=6A0136&fire=129490&currStreakNum=FFFBFC&currStreakLabel=129490&sideNums=FFFBFC&sideLabels=FFFBFC&dates=FFFBFC" />
+<img src="https://streak-stats.demolab.com/?user=rarpen&hide_border=true&background=065143&border=065143&stroke=129490&ring=129490&fire=129490&currStreakNum=FFFBFC&currStreakLabel=129490&sideNums=FFFBFC&sideLabels=FFFBFC&dates=FFFBFC" />
 
 </div>
 
