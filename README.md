@@ -83,14 +83,11 @@ Sou desenvolvedor **Full Stack**, com foco em aplicações **mobile** (React Nat
 
 <div align="center">
 
-<a href="mailto:rapedreira2208@gmail.com">
+<a href="mailto:ramaropedreira@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
-<a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/ricardo-amaro-12459528b/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://instagram.com/SEU_INSTAGRAM_AQUI">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
 </div>
